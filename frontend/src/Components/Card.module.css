@@ -1,0 +1,34 @@
+.border{
+    border: 2px solid red;
+}
+
+.VideoContainer{
+    min-height: 500px;
+    width: 100%;
+    height: 100%;
+}
+
+.Container{
+    border: 1.5px solid white;
+    /* height: 50vh; */
+    background-color: white;
+    
+}
+
+.col{
+    margin: 0;
+    padding: 0;
+}
+
+
+@media screen and (max-width:900px) {
+    .VideoContainer{
+        height: 250px;
+       min-height: 0;
+    }
+
+    .Container{
+        width: 90% !important;
+        margin: 20px auto;
+    }
+}

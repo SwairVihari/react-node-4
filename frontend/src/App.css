@@ -1,0 +1,15 @@
+.App{
+    background: url('/src/Images/trade_bg.jpg');
+    padding: 30px 0px;
+
+}
+
+.warning{
+    background-color: #211154;
+    color: white;
+    text-align: center;
+
+}
+p{
+    margin: 0;
+}

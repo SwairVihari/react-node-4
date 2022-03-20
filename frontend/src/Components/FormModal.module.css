@@ -1,0 +1,47 @@
+.FormHeader{
+    border-bottom: 1px solid black;
+    background-color: #EFEFEF;
+    text-align: center;
+    padding: 10px 25px;
+    color: black !important;
+    width: 100% !important;
+}
+
+
+.form{
+    padding: 20px 50px !important;
+}
+
+.label{
+    color: #777777;
+    font-weight: 500;
+}
+
+.input{
+    -webkit-box-shadow: inset 2px 0px 31px 2px rgba(0,0,0,0.2);
+-moz-box-shadow: inset 2px 0px 31px 2px rgba(0,0,0,0.2);
+box-shadow: inset 2px 0px 31px 2px rgba(0,0,0,0.2);
+}
+
+.phoneinput{
+    width: 100% !important;
+    -webkit-box-shadow: inset 2px 0px 31px 2px rgba(0,0,0,0.2);
+-moz-box-shadow: inset 2px 0px 31px 2px rgba(0,0,0,0.2);
+box-shadow: inset 2px 0px 31px 2px rgba(0,0,0,0.2);
+}
+
+.card{
+    width: 100%;
+    box-sizing: border-box;
+
+}
+
+.Button{
+    background-color: #F69F14;
+    padding: 10px 4px !important;
+    margin: 20px auto !important;
+    border: none;
+    font-weight: 600;
+    font-size: 1.5rem;
+    width: 100%;
+}
